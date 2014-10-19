@@ -1,2 +1,2 @@
-#web:    java $JAVA_OPTS -cp target/classes:target/dependency/* Main
-web: sh target/bin/webapp
+web:    java $JAVA_OPTS -cp target/classes:target/dependency/* wishListDiary
+#web: sh target/bin/webapp
