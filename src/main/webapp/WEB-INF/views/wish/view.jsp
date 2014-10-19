@@ -33,7 +33,7 @@
 			</c:otherwise>
 		</c:choose>
 
-		<a href="/WishListDiary/wish/add" class="btn btn-info">More Wishes</a>
+		<a href="/wish/add" class="btn btn-info">More Wishes</a>
 	</div>
 </body>
 </html>

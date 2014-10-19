@@ -16,12 +16,12 @@
 	<div class="container">
 		<div class="header">
 			<ul class="nav nav-tabs nav-justified">
-				<li><a href="/WishListDiary">Home</a></li>
+				<li><a href="/">Home</a></li>
 				<li class="dropdown"><a href="#" class="dropdown-toggle"
 					data-toggle="dropdown">Wishes <span class="caret"></span></a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/WishListDiary/wish/view">View All Wishes</a></li>
-						<li><a href="/WishListDiary/wish/add">Make a Wish</a></li>
+						<li><a href="/wish/view">View All Wishes</a></li>
+						<li><a href="/wish/add">Make a Wish</a></li>
 					</ul></li>
 			</ul>
 			<h3 class="text-muted">WishListDiary</h3>
