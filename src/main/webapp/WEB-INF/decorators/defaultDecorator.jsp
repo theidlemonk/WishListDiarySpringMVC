@@ -11,6 +11,7 @@
 <link rel="stylesheet"
 	href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/darkly/bootstrap.min.css"
 	type="text/css" />
+
 </head>
 <body>
 	<div class="container">
@@ -27,10 +28,15 @@
 			<h3 class="text-muted">WishListDiary</h3>
 		</div>
 		<hr>
+		<a href="https://github.com/theidlemonk/WishListDiarySpringMVC"><img
+			style="position: absolute; top: 0; right: 0; border: 0; width: 149px; height: 149px;"
+			src="http://aral.github.com/fork-me-on-github-retina-ribbons/right-turquoise@2x.png"
+			alt="Fork me on GitHub"></a>
 		<sitemesh:write property='body' />
 		<br>
 		<hr>
-		<div class="text-muted text-center">Maintained by Awesomeness!!!</div>
+		<div class="text-muted text-right">&copy; Maintained by
+			TheIdleMonk</div>
 	</div>
 </body>
 </html>

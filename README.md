@@ -18,3 +18,7 @@ _Description: This is a sample Java Spring MVC project_
 
 ## Deploying
     >> *need to add instructions*
+
+    
+#### _This app is active on heroku_
+Link to heroku - http://wishlistdiary.herokuapp.com 
